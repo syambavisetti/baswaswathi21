@@ -1,0 +1,6 @@
+{
+  "name": "Mother Tongue Translator",
+  "description": "Translate text and speech into your native mother tongue with authentic colloquial idioms, transliterations, formality registers, and cultural nuance.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
